@@ -10,7 +10,7 @@ setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}", 
     version="0.0.1",
     author=USER_NAME,
-    author_email="sharath@gmail.com",
+    author_email="sharath957@gmail.com",
     description="It is a implementation of perceptron",
     long_description=long_description,
     long_description_content_type="text/markdown",
